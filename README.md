@@ -1,11 +1,10 @@
 # final-project-2024
- my final project
-# Final-Project-WEB
 
-![Project Logo](path/to/logo.png)
+Project for my friends : an innovative e-commerce platform designed for fashion lovers who value sustainability and creativity. The site empowers users to create unique, stylish looks by mixing and matching second-hand items with handmade products. Our goal is to reduce fashion waste by giving pre-loved pieces a second life, while supporting artisans and small businesses. With a curated collection of vintage, upcycled, and bespoke fashion, Julia raskin StyleOn brings together community, creativity, and conscious consumerism.
+
 
 ## Overview
-Final-Project-WEB is a full-stack web application developed as part of a final project for W310523ER. The project utilizes modern web technologies including **React.js** for the frontend, **Node.js** for the backend, and **MongoDB** as the database. The application implements user authentication, protected routes, and an admin dashboard for managing products and orders.
+Final-Project-2024 is a full-stack web application developed as part of a final project for W310523ER. The project utilizes modern web technologies including **React.js** for the frontend, **Node.js** for the backend, and **MongoDB** as the database. The application implements user authentication, protected routes, and an admin dashboard for managing products and orders.
 
 ## Technologies Used
 - **Frontend:** React.js, React Router, Axios
